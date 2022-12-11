@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="radius_small">12dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="icon_size_large">40dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="dialog_button_width">136dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="margin_large_medium">24dp</dimen>
+    <dimen name="line_spacing_0">0sp</dimen>
+</resources>
